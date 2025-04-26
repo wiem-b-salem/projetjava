@@ -1,0 +1,3 @@
+U001;wiem;wiem;a;wiem@wiem.wiem;55555555;password123
+L001;admin;admin;b;admin@admin.admin;22222222;adminpassword
+U002;hola;hola;a;hola@hola.hola;77777777;hola123

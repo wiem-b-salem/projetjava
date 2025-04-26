@@ -1,0 +1,21 @@
+slm / hola 
+bch nsammi folders personA w personB , l bch yekhou folder ybdluo b esmou , zouz khdmthom very similar wehd bch yhot w lekher bch yekhou ,
+ in other words wehd bch yzid fl bd w lekher bch yjbd ml bd 
+
+ behi ill give you the structure taa data kifh  w nkolkom chthotou f chat bch ykhrjlkom el code b nfs e structure 
+ k tkmlou tw naaml ena trouchiket lekhraa kn famma decalage fl khdma taa A wel B , chaalikom 
+
+ kn thbou tbdlou or tzidou hajaa tychou msg fl grp we can discuss it amma deja zyedt el 5ir mafeha mlema
+ bennesba lel msgs ill integrate them ekher hajaa , donc baad matkmlou 5dmtkom ill add the msgs si nn njm zeda naaml menues wahdhom w n5dmhom tw nchouf kifh bch tmchi l 5dma ,5tr nktb w ena mezelt k bdit :p
+
+ structure l fl users.data :
+ id;firstName;lastName;type;email;phone;password
+ kenou landlord id:Lxxx
+ kenou user id:Uxxx
+
+ same for houses w apatments
+ house id :Hxxx
+ apat id:Axxx
+
+ 7awlou 5aliw data similar 
+ yaani same reading seperated by ; bch tkoun consistent 
